@@ -9,16 +9,6 @@ using System.Threading.Tasks;
 
 /*  Random Key 16 long:
  *  
- *  IKgyux3Fa4rZo6YD
-    xhoLt4AEMj92xTmC
-    1j4bHnnUDE1TeCKC
-    T3bAWdf7qmSVZmyd
-    KNIW8KTuhmz7Jexv
-    DVk42NBME9LTQr1D
-    iH9uElKgBqe85iYs
-    2DBcP2rZTLXoDp6B
-    P4Y7jM77DPC2zqhD
-    uTnwCBo5ZNWkfyBU
  * 
  */
 
@@ -32,7 +22,7 @@ namespace ConsoleApplication1
 
             Register_RW_Class Register_RW = new Register_RW_Class();
 
-            register = "YellowStone";
+            register = "HamRadio";
             sub_register = "AppKey";
             value = "PU2MKY";
 
